@@ -1,0 +1,7 @@
+Options -Indexes
+
+DirectoryIndex send_email.php
+
+<IfModule mod_rewrite.c>
+RewriteEngine off
+</IfModule>

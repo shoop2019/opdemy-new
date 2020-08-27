@@ -1,0 +1,7 @@
+Options -Indexes
+
+DirectoryIndex oh_no_shopping.php
+
+<IfModule mod_rewrite.c>
+RewriteEngine off
+</IfModule>

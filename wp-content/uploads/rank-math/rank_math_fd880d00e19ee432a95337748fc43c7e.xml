@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//www.opdemy.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.opdemy.com/?elementskit_template=header/</loc>
+		<lastmod>2020-08-24T17:14:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.opdemy.com/?elementskit_template=footer/</loc>
+		<lastmod>2020-08-24T15:00:26+00:00</lastmod>
+	</url>
+</urlset>
